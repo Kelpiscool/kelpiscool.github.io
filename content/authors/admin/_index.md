@@ -50,7 +50,6 @@ education:
     date_start: 2017-07-01
     date_end: 2020-06-01
     summary: |
-     ''
 
 work:
   - position: Director of Cloud Infrastructure
