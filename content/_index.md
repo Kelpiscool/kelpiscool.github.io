@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/resume.pdf
+        url: https://github.com/Kelpiscool/kelpiscool.github.io/blob/d264df54fea9817ec322233f52da3600777ed7af/static/uploads/2024_june_resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
