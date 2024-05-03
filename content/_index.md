@@ -41,7 +41,7 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: Projects
+  - block: projects
     content:
       title: Projects
       username: admin
