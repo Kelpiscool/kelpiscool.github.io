@@ -97,7 +97,7 @@ skills:
       - name: Freshwater Aquariums
         description: 'Specific interest in recreation and study of bog type ecosystems'
         percent: 90
-        icon: '🦐'
+        icon: 🦐
       - name: Electronics
         description: 'Currently working on a transformer coil winder, based around an RPI RP2040'
         percent: 50
