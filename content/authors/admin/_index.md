@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Budding Data Scientist with an Economics focus
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+#organizations:
+#  - name: GenCoin
+#    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,8 +36,8 @@ profiles:
 education:
   - area: BA Economics
     institution: California State University, Long Beach
-    date_start: 2023
-    date_end: 2020
+    date_start: 2023-01-01
+    date_end: 2020-01-01
     summary: |
       GPA: 3.8/4.0
 
@@ -47,8 +47,8 @@ education:
       - Game Theory
   - area: AA Economics
     institution: Pasadena City College
-    date_start: 2017
-    date_end: 2020
+    date_start: 2017-01-01
+    date_end: 2020-01-01
     summary: |
       GPA: 3.8/4.0
 
