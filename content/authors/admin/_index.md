@@ -49,7 +49,8 @@ education:
     institution: Pasadena City College
     date_start: 2017
     date_end: 2020
-    summary:
+    summary: |
+      GPA: 3.8/4.0
 
 work:
   - position: Director of Cloud Infrastructure
