@@ -37,7 +37,7 @@ education:
   - area: BA Economics
     institution: California State University, Long Beach
     date_start: 2023-01-01
-    date_end: 2020-01-01
+    date_end: 2020-08-01
     summary: |
       GPA: 3.8/4.0
 
@@ -47,10 +47,10 @@ education:
       - Game Theory
   - area: AA Economics
     institution: Pasadena City College
-    date_start: 2017-01-01
-    date_end: 2020-01-01
+    date_start: 2017-07-01
+    date_end: 2020-06-01
     summary: |
-      GPA: 3.8/4.0
+     ''
 
 work:
   - position: Director of Cloud Infrastructure
