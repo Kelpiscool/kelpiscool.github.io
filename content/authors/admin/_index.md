@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Budding Data Scientist / Econometrist
+role: Budding Data Scientist / econometrist
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -120,7 +120,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-projects:
+awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
