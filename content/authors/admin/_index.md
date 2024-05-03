@@ -49,7 +49,7 @@ education:
     institution: Pasadena City College
     date_start: 2017
     date_end: 2020
-    summary: |''
+    summary:
 
 work:
   - position: Director of Cloud Infrastructure
