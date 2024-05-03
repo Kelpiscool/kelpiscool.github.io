@@ -83,12 +83,16 @@ skills:
     items:
       - name: RStudio
         description: 'Experience: ggplot, dplyr, tidyr, readr'
-        percent: 80
+        percent: 85
         icon: devicon/rstudio
       - name: Python
-        description: 'Experience: matplotlib'
-        percent: 70
+        description: 'Experience: matplotlib, pandas'
+        percent: 60
         icon: devicon/python
+      - name: C
+        description: 'Limited experience in embedded enviroment'
+        percent: 30
+        icon: devicon/C
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
