@@ -39,8 +39,6 @@ education:
     date_start: 2023-01-01
     date_end: 2020-08-01
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
       - Time Series
       - Econometrics
