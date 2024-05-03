@@ -98,7 +98,6 @@ skills:
         description: 'Specific interest in recreation and study of bog type ecosystems'
         percent: 90
         icon: :shrimp:
-        icon_pack: "emoji"
       - name: Electronics
         description: 'Currently working on a transformer coil winder, based around an RPI RP2040'
         percent: 50
