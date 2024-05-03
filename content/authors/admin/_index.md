@@ -77,8 +77,8 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#00aaaaff'
+    color_border: '#00aaaaff'
     items:
       - name: RStudio
         description: 'Experience: ggplot, dplyr, tidyr, readr'
@@ -93,8 +93,8 @@ skills:
         percent: 30
         icon: devicon/C
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#ffff55ff'
+    color_border: '#ffff55ff'
     items:
       - name: Freshwater Aquariums
         description: 'Specific interest in recreation and study of bog type ecosystems'
