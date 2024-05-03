@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Budding Data Scientist / econometrist
+role: Budding Data Scientist / Econometrist
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -77,6 +77,8 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: RStudio
         description: 'Experience: ggplot, dplyr, tidyr, readr'
