@@ -28,7 +28,7 @@ role: Budding Data Scientist / econometrist
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:junepak07@gmail.com'
+    url: 'mailto:junepak08@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/kelpiscool
