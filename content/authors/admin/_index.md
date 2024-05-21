@@ -62,10 +62,10 @@ work:
     date_end: 2023-09-01
     summary: |2-
       Responsibilities include:
-      - All aspects  of lighting / sound installation and equipment repair. DMM, DSO fault diagnosis.
+      - All aspects  of lighting / sound installation and equipment repair. DMM, DSO fault diagnosis at the Lisa Smith Wenglar Arts Center.
       - Qlab show sound and projection integration.
       - Live sound mixing in keynote and show enviroments.
-  - position: Technician
+  - position: Assisstant Live Production Technician
     company_name: Providence High School
     company_url: ''
     company_logo: ''
@@ -95,6 +95,10 @@ skills:
       - name: C
         description: 'Limited experience in embedded enviroment'
         percent: 30
+        icon: devicon/C
+      - name: MS Office Suite
+        description: 'Experience in Excel pivoting data, visualzing and creating linear models.'
+        percent: 80
         icon: devicon/C
   - name: Hobbies
     color: '#ffff55ff'
