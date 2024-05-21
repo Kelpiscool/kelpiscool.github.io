@@ -99,7 +99,8 @@ skills:
       - name: MS Office Suite
         description: 'Experience in Excel pivoting data, visualzing and creating linear models.'
         percent: 80
-        icon: custom/MS_icon.svg
+        icon: MS_icon
+        icon_pack: custom
   - name: Hobbies
     color: '#ffff55ff'
     color_border: '#ffff55ff'
