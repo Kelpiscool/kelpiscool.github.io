@@ -65,7 +65,7 @@ work:
       - All aspects  of lighting / sound installation and equipment repair. DMM, DSO fault diagnosis at the Lisa Smith Wenglar Arts Center.
       - Qlab show sound and projection integration.
       - Live sound mixing in keynote and show enviroments.
-  - position: Assisstant Live Production Technician
+  - position: Assistant Live Production Technician
     company_name: Providence High School
     company_url: ''
     company_logo: ''
@@ -99,7 +99,7 @@ skills:
       - name: MS Office Suite
         description: 'Experience in Excel pivoting data, visualzing and creating linear models.'
         percent: 80
-        icon: devicon/C
+        icon: /workspaces/kelpiscool.github.io/assets/media/icons/MS_icon.svg
   - name: Hobbies
     color: '#ffff55ff'
     color_border: '#ffff55ff'
@@ -113,7 +113,7 @@ skills:
         percent: 50
         icon: '📀'
       - name: Cycling
-        description: 'Half Century down, a full century to go!'
+        description: 'Just got a set of rollers, trying not to fall off'
         percent: 60
         icon: '🚴🏻‍♂️'
 
