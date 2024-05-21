@@ -99,8 +99,7 @@ skills:
       - name: MS Office Suite
         description: 'Experience in Excel pivoting data, visualzing and creating linear models.'
         percent: 80
-        icon: MS_icon
-        icon_pack: custom
+        icon: custom/MS_icon
   - name: Hobbies
     color: '#ffff55ff'
     color_border: '#ffff55ff'
@@ -108,16 +107,15 @@ skills:
       - name: Freshwater Aquariums
         description: 'Specific interest in recreation and study of bog type ecosystems'
         percent: 90
-        icon: 🦐
-        icon_pack: emoji
+        icon: emoji/🦐
       - name: Electronics
         description: 'Currently working on a transformer coil winder, based around an RPI RP2040'
         percent: 50
-        icon: '📀'
+        icon: emoji/📀
       - name: Cycling
         description: 'Just got a set of rollers, trying not to fall off'
         percent: 60
-        icon: '🚴🏻‍♂️'
+        icon: emoji/🚴🏻‍♂️
 
 languages:
   - name: English
