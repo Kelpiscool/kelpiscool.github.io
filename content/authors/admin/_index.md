@@ -42,7 +42,11 @@ education:
       Courses included:
       - Time Series
       - Econometrics
+      - Money & Banking
       - Game Theory
+      - Ubran Economics
+      - Resource Economics
+      - International Economics
   - area: AA Economics
     institution: Pasadena City College
     date_start: 2017-07-01
@@ -58,20 +62,20 @@ work:
     date_end: 2023-09-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - All aspects  of lighting / sound installation and equipment repair. DMM, DSO fault diagnosis.
+      - Qlab show sound and projection integration.
+      - Live sound mixing in keynote and show enviroments.
   - position: Backend Software Engineer
-    company_name: X
+    company_name: Providence High School
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Upgrading sound infrastructure to Shure SLX system.
+      - FOH mixing for plays and musicals.
+      - Help foster interest in technical theater in young adults.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -81,7 +85,7 @@ skills:
     color_border: '#00aaaaff'
     items:
       - name: RStudio
-        description: 'Experience: ggplot, dplyr, tidyr, readr'
+        description: 'Experience: ggplot, tidyverse, patchwork, corrplot'
         percent: 85
         icon: devicon/rstudio
       - name: Python
