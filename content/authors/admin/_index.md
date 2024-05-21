@@ -50,12 +50,12 @@ education:
     summary: |
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Live Production Technician
+    company_name: Pepperdine University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2017-01-01
+    date_end: 2023-09-01
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
