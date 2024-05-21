@@ -92,7 +92,8 @@ skills:
         description: 'Experience: matplotlib, pandas'
         percent: 60
         icon: devicon/python
-      - name: C
+      - name: C_icon
+        icon_pack: custom
         description: 'Limited experience in embedded enviroment'
         percent: 30
         icon: C
