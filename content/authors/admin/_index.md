@@ -95,8 +95,7 @@ skills:
       - name: C
         description: 'Limited experience in embedded enviroment'
         percent: 30
-        icon: C_icon
-        icon_pack: custom
+        icon: custom/C_icon
       - name: MS Office Suite
         description: 'Experience in Excel pivoting data, visualzing and creating linear models.'
         percent: 80
