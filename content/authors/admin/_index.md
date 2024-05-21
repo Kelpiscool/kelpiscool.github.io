@@ -65,7 +65,7 @@ work:
       - All aspects  of lighting / sound installation and equipment repair. DMM, DSO fault diagnosis.
       - Qlab show sound and projection integration.
       - Live sound mixing in keynote and show enviroments.
-  - position: Backend Software Engineer
+  - position: Technician
     company_name: Providence High School
     company_url: ''
     company_logo: ''
