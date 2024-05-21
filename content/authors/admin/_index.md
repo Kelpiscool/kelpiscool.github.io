@@ -92,11 +92,11 @@ skills:
         description: 'Experience: matplotlib, pandas'
         percent: 60
         icon: devicon/python
-      - name: C_icon
-        icon_pack: custom
+      - name: C
         description: 'Limited experience in embedded enviroment'
         percent: 30
-        icon: C
+        icon: C_icon
+        icon_pack: custom
       - name: MS Office Suite
         description: 'Experience in Excel pivoting data, visualzing and creating linear models.'
         percent: 80
