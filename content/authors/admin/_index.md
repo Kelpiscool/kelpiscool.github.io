@@ -125,13 +125,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Energy use in California by COunty: 1990 - 2022
+    url: https://github.com/Kelpiscool/Kelp_data_projects_2024
+    date: '2024-02-01'
+    icon: github
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Exercise in importing cleaning and doing preliminary data analysis into California energy use.  Challenges in pivoting and zipping together multiple datasets to create a better insight into energy consumption.  Energy consumption over time was characterized for two regions of California (Bay Area & Southern California).  Next a snapshot of 2020 was created with population data which allows for per capita analysis of energy consumption.  
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
