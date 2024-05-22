@@ -104,7 +104,7 @@ skills:
     color: '#ffff55ff'
     color_border: '#ffff55ff'
     items:
-      - name: Freshwater Aquariums
+      - name: Freshwater Aquariums 🦐
         description: 'Specific interest in recreation and study of bog type ecosystems'
         percent: 90
       - name: Electronics
