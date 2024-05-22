@@ -125,11 +125,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Energy use in California by County
+  - title: Energy use in California: 1990 - 2022
     url: https://github.com/Kelpiscool/Kelp_data_projects_2024/blob/main/CA_electricity_discovery.pdf
     date: '2024-02-01'
     awarder: Coursera
-    icon: coursera
     summary: |
       Exercise in importing cleaning and doing preliminary data analysis into California energy use.  Challenges in pivoting and zipping together multiple datasets to create a better insight into energy consumption.  Energy consumption over time was characterized for two regions of California (Bay Area & Southern California).  Next a snapshot of 2020 was created with population data which allows for per capita analysis of energy consumption.  
   - title: Blockchain Fundamentals
