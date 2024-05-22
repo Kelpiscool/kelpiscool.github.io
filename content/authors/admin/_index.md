@@ -44,7 +44,7 @@ education:
       - Econometrics
       - Money & Banking
       - Game Theory
-      - Ubran Economics
+      - Urban Economics
       - Resource Economics
       - International Economics
   - area: AA Economics
@@ -62,7 +62,7 @@ work:
     date_end: 2023-09-01
     summary: |2-
       Responsibilities include:
-      - All aspects  of lighting / sound installation and equipment repair. DMM, DSO fault diagnosis at the Lisa Smith Wenglar Arts Center.
+      - All aspects  of lighting / sound installation and equipment repair. DMM, DSO fault diagnosis at the Lisa Smith Wengler Arts Center.
       - Qlab show sound and projection integration.
       - Live sound mixing in keynote and show enviroments.
   - position: Assistant Live Production Technician
@@ -107,15 +107,12 @@ skills:
       - name: Freshwater Aquariums
         description: 'Specific interest in recreation and study of bog type ecosystems'
         percent: 90
-        icon: emoji/🦐
       - name: Electronics
         description: 'Currently working on a transformer coil winder, based around an RPI RP2040'
         percent: 50
-        icon: emoji/bicyclist
       - name: Cycling
         description: 'Just got a set of rollers, trying not to fall off'
         percent: 60
-        icon: emoji/🦐
 
 languages:
   - name: English
