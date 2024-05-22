@@ -128,8 +128,6 @@ awards:
   - title: Energy use in California by COunty: 1990 - 2022
     url: https://github.com/Kelpiscool/Kelp_data_projects_2024
     date: '2024-02-01'
-    awarder: github
-    icon: github
     summary: |
       Exercise in importing cleaning and doing preliminary data analysis into California energy use.  Challenges in pivoting and zipping together multiple datasets to create a better insight into energy consumption.  Energy consumption over time was characterized for two regions of California (Bay Area & Southern California).  Next a snapshot of 2020 was created with population data which allows for per capita analysis of energy consumption.  
   - title: Blockchain Fundamentals
