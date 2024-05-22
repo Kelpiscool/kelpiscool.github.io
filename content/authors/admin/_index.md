@@ -111,8 +111,8 @@ skills:
       - name: Electronics
         description: 'Currently working on a transformer coil winder, based around an RPI RP2040'
         percent: 50
-        icon = ":smile:"
-        icon_pack = "emoji"
+        icon: ":smile:"
+        icon_pack: "emoji"
       - name: Cycling
         description: 'Just got a set of rollers, trying not to fall off'
         percent: 60
