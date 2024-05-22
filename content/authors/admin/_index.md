@@ -104,13 +104,13 @@ skills:
     color: '#ffff55ff'
     color_border: '#ffff55ff'
     items:
-      - name: Freshwater Aquariums 🦐
+      - name: 🦐 Freshwater Aquariums
         description: 'Specific interest in recreation and study of bog type ecosystems'
         percent: 90
-      - name: Electronics
+      - name: 📀 Electronics
         description: 'Currently working on a transformer coil winder, based around an RPI RP2040'
         percent: 50
-      - name: Cycling
+      - name: 🚴 Cycling
         description: 'Just got a set of rollers, trying not to fall off'
         percent: 60
 
