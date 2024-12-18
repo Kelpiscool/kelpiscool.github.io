@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Budding Data Scientist / Econometrist
+role: Data Scientist & former Live Production Tech
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
