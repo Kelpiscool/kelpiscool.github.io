@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist & former Live Production Tech
+role: Data Scientist & Former Live Production Tech
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
